@@ -13,3 +13,6 @@ I have a general understanding of networking and I'm also into hacking.
 I love hard algorithm and I'm studying machine learning as well.
 
 That's all! :rose:
+
+citerate.neocities.org
+volentie.neocities.org
