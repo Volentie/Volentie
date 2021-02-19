@@ -14,5 +14,6 @@ I love hard algorithm and I'm studying machine learning as well.
 
 That's all! :rose:
 
-citerate.neocities.org
-volentie.neocities.org
+![Poetry](citerate.neocities.org)
+
+[Open your eyes](volentie.neocities.org)
