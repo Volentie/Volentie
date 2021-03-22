@@ -6,6 +6,9 @@ I programmed with a lot of frameworks and also built some, had been programming 
 Languages I domain:
 - :snake: Python
 - :full_moon: Lua
+- :dart: Dart
+- :yo_yo: C#
+- :nazar_amulet: C++
 - :spider_web: Web basic languages (HTML, CSS, Javascript)
 
 I have a general understanding of networking and I'm also into hacking.
