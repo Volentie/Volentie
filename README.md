@@ -1,7 +1,6 @@
 ## Hi, my name is Gustavo.
-##### My first programming language was 'Lua', afterwards I moved to other languages.
 
-I programmed with a lot of frameworks and also built some, had been programming several languages as well but quickly moved on.
+I programmed using a lot of frameworks during my 'programmer time' and also built some.
 
 Languages I domain:
 - :snake: Python
@@ -10,12 +9,6 @@ Languages I domain:
 - :yo_yo: C#
 - :nazar_amulet: C++
 - :spider_web: Web basic languages (HTML, CSS, Javascript)
-
-I have a general understanding of networking and I'm also into hacking.
-
-I love hard algorithm and I'm studying machine learning as well.
-
-That's all! :rose:
 
 
 [Poetry](citerate.neocities.org)
