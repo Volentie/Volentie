@@ -1,6 +1,6 @@
 ## Hi, my name is Gustavo.
 
-I programmed using a lot of frameworks during my 'programmer time' and also built some.
+I'm currently working as a freelancer doing React, Flutter and Nodejs projects as a fullstack developer.
 
 Languages I domain:
 - :snake: Python
@@ -12,5 +12,3 @@ Languages I domain:
 
 
 [Poetry](citerate.neocities.org)
-
-[Open your eyes](volentie.neocities.org)
