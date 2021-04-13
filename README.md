@@ -9,6 +9,6 @@ Languages I domain:
 - :yo_yo: C#
 - :nazar_amulet: C++
 - :spider_web: Web basic languages (HTML, CSS, Javascript)
-
+- :globe_with_meridians: GOlang
 
 [Poetry](https://www.citerate.neocities.org/)
