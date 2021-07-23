@@ -1,6 +1,6 @@
 ## Hi, my name is Gustavo.
 
-I'm currently working as a freelancer doing React, Flutter and Nodejs projects as a fullstack developer.
+I'm currently working with games.
 
 Languages I domain:
 - :snake: Python
