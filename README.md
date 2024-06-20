@@ -3,10 +3,11 @@ I am a self-taught engineer and Computer Scientist. I've always been fascinated 
 Over the years, I've created hundreds of projects using a wide range of technologies and patterns that I've learned along the way. Admittedly, I've also forgotten quite a few of them, haha. When necessary, I have coded using the following languages (some of which are frameworks), that I can recall at the moment:
 - Lua
 - Python
+- GDScript (Godot)
 - C
 - C++
 - C#
-- Sourcepawn (lol)
+- Sourcepawn
 - Haskell
 - Go
 - Dart
