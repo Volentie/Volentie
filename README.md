@@ -9,6 +9,3 @@ Over the years, I’ve worked on hundreds of projects, exploring different techn
 Added support for the `<search>` tag in Go’s HTML parser. This ensures proper parsing and brings the library in line with HTML5.  
 
 🔗 [Commit 312450e](https://github.com/golang/net/commit/312450e473eae9f9e6173ad895c80bc5ea2f79ad)
-
-# LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Volentie?theme=unicorn&font=Secular%20One)
